@@ -12,25 +12,24 @@ Defensive features:
   - Filters out ad rows
   - Handles "?" cells as null
   - Decodes "▲▲▲" multi-arrow as diff = 999
-  - Polite delay between pages (avoid hammering)
+  - Polite delays between pages and a longer pause between lists
   - Validates total scrape (>= 50 rows per list, top channel has subs > 0)
     before overwriting subscribers.json
+  - Prints diagnostic info if a page returns 0 rows
 """
 
 import json
 import re
 import sys
-import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 from playwright.sync_api import Page, sync_playwright
 
-# Each list is paginated; we fetch pages 1 through PAGES_PER_LIST.
-PAGES_PER_LIST = 5  # 5 pages × 20 channels = 100 per list
-DELAY_BETWEEN_PAGES_MS = 2000  # 2s polite delay so we don't look like a bot
+PAGES_PER_LIST = 5
+DELAY_BETWEEN_PAGES_MS = 3000   # 3s between pages within a list
+DELAY_BETWEEN_LISTS_MS = 8000   # 8s between switching from active -> all-time
 
-# Base URLs (without page suffix)
 LISTS = {
     "active":   "https://twitchtracker.com/subscribers",
     "all_time": "https://twitchtracker.com/subscribers/all-time",
@@ -38,7 +37,6 @@ LISTS = {
 
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "subscribers.json"
 
-# Validation thresholds
 MIN_ROWS_FOR_VALID = 50
 MIN_TOP_SUBS_FOR_VALID = 1000
 
@@ -86,30 +84,52 @@ def slug_from_href(href):
 
 
 def page_url(base_url, page_num):
-    """page 1 has no suffix; pages 2..N use ?page=N"""
     if page_num <= 1:
         return base_url
     sep = "&" if "?" in base_url else "?"
     return f"{base_url}{sep}page={page_num}"
 
 
+def diagnose_empty_page(page: Page, label: str, page_num: int):
+    """When a page returns 0 rows, capture useful info to figure out why."""
+    try:
+        title = page.title()
+        url   = page.url
+        body_text = page.evaluate("document.body.innerText")[:300] if page.evaluate("!!document.body") else "(no body)"
+        # Count tables and rows on the page
+        n_tables = len(page.query_selector_all("table"))
+        n_channels_table = len(page.query_selector_all("table#channels"))
+        n_any_rows = len(page.query_selector_all("tbody tr"))
+        # Check for Cloudflare interstitial
+        has_cf = "cloudflare" in body_text.lower() or "challenge" in body_text.lower() or "checking your browser" in body_text.lower()
+        print(f"   [diag] title={title!r}", flush=True)
+        print(f"   [diag] url={url!r}", flush=True)
+        print(f"   [diag] n_tables={n_tables}, n_channels_table={n_channels_table}, n_any_rows={n_any_rows}", flush=True)
+        print(f"   [diag] cloudflare_indicators={has_cf}", flush=True)
+        print(f"   [diag] body_preview: {body_text!r}", flush=True)
+
+        # Save screenshot
+        debug = Path(__file__).resolve().parent / f"debug_{label}_p{page_num}.png"
+        page.screenshot(path=str(debug), full_page=True)
+        print(f"   [diag] screenshot saved: {debug}", flush=True)
+    except Exception as e:
+        print(f"   [diag] diagnostic itself failed: {e}", flush=True)
+
+
 def scrape_one_page(page: Page, url: str, label: str, page_num: int) -> list[dict]:
-    """Fetch and parse a single TwitchTracker page (~20 rows)."""
     print(f"[{label}] page {page_num}: {url}", flush=True)
     page.goto(url, wait_until="domcontentloaded", timeout=60_000)
     try:
         page.wait_for_selector("table#channels tbody tr", timeout=30_000)
     except Exception:
-        debug = Path(__file__).resolve().parent / f"debug_{label}_p{page_num}.png"
-        page.screenshot(path=str(debug), full_page=True)
-        print(f"[{label}] page {page_num}: ! No table found. Screenshot: {debug}", flush=True)
+        print(f"[{label}] page {page_num}: ! No #channels table found (timeout).", flush=True)
+        diagnose_empty_page(page, label, page_num)
         return []
 
     rows = page.query_selector_all("table#channels tbody tr")
     results = []
     for row in rows:
         cells = row.query_selector_all("td")
-        # Skip ad rows / invalid rows
         if len(cells) <= 1:
             continue
         first_colspan = cells[0].get_attribute("colspan")
@@ -163,25 +183,26 @@ def scrape_one_page(page: Page, url: str, label: str, page_num: int) -> list[dic
         })
 
     print(f"[{label}] page {page_num}: parsed {len(results)} rows", flush=True)
+    if not results:
+        diagnose_empty_page(page, label, page_num)
     return results
 
 
 def scrape_list(page: Page, base_url: str, label: str) -> list[dict]:
-    """Loop pages 1..PAGES_PER_LIST and concatenate results."""
     all_rows = []
-    seen_ranks = set()  # de-dup safety net in case TwitchTracker repeats rows on the last page
+    seen_ranks = set()
 
     for page_num in range(1, PAGES_PER_LIST + 1):
         url = page_url(base_url, page_num)
-        try:
+        # Retry once if a page returns 0 rows — could be a transient block
+        rows = scrape_one_page(page, url, label, page_num)
+        if not rows and page_num == 1:
+            print(f"[{label}] page 1 returned 0 rows; waiting 10s and retrying once...", flush=True)
+            page.wait_for_timeout(10000)
             rows = scrape_one_page(page, url, label, page_num)
-        except Exception as e:
-            print(f"[{label}] page {page_num}: ! exception: {e}", flush=True)
-            rows = []
 
         if not rows:
-            # Empty page — likely we've gone past the end. Stop early.
-            print(f"[{label}] page {page_num} returned 0 rows; stopping early.", flush=True)
+            print(f"[{label}] page {page_num} empty; stopping pagination for this list.", flush=True)
             break
 
         for r in rows:
@@ -190,15 +211,14 @@ def scrape_list(page: Page, base_url: str, label: str) -> list[dict]:
             seen_ranks.add(r["rank"])
             all_rows.append(r)
 
-        # Polite delay before next page
         if page_num < PAGES_PER_LIST:
             page.wait_for_timeout(DELAY_BETWEEN_PAGES_MS)
 
-    print(f"[{label}] TOTAL: {len(all_rows)} unique channels across all pages", flush=True)
+    print(f"[{label}] TOTAL: {len(all_rows)} unique channels", flush=True)
     return all_rows
 
 
-def is_valid(channels: list[dict]) -> tuple[bool, str]:
+def is_valid(channels):
     if len(channels) < MIN_ROWS_FOR_VALID:
         return False, f"only {len(channels)} rows (need >= {MIN_ROWS_FOR_VALID})"
     top_subs = channels[0].get("subs") or 0
@@ -207,7 +227,7 @@ def is_valid(channels: list[dict]) -> tuple[bool, str]:
     return True, "ok"
 
 
-def main() -> int:
+def main():
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     fresh = {
@@ -229,16 +249,21 @@ def main() -> int:
         )
         page = context.new_page()
 
-        for label, base_url in LISTS.items():
+        list_items = list(LISTS.items())
+        for i, (label, base_url) in enumerate(list_items):
             try:
                 fresh["lists"][label] = scrape_list(page, base_url, label)
             except Exception as e:
                 print(f"[{label}] ! exception: {e}", flush=True)
                 fresh["lists"][label] = []
 
+            # Longer pause before switching to next list (avoid rate-limit)
+            if i < len(list_items) - 1:
+                print(f"--- Pausing {DELAY_BETWEEN_LISTS_MS/1000:.0f}s before next list ---", flush=True)
+                page.wait_for_timeout(DELAY_BETWEEN_LISTS_MS)
+
         browser.close()
 
-    # Validate
     failures = []
     for label, channels in fresh["lists"].items():
         ok, reason = is_valid(channels)
