@@ -59,3 +59,4 @@ Output: `../data/subscribers.json`. If selectors break, you'll get `debug_active
 
 - TwitchTracker's ToS doesn't formally permit scraping. Once-a-day frequency is low impact, but you're doing this at your own risk.
 - If TwitchTracker changes their HTML, the validation gate prevents bad data going live. The scraper saves a debug screenshot to make selector fixes quick.
+- https://streamerplus.com/
