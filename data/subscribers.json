@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-10T07:55:09.836959+00:00",
+  "scraped_at": "2026-05-10T15:29:31.323833+00:00",
   "source": "twitchtracker.com",
   "lists": {
     "active": [
@@ -85,7 +85,7 @@
         "slug": "christinaandamber",
         "url": "https://twitchtracker.com/christinaandamber/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dc3ff61-3ee2-408f-9071-0f849dff6f66-profile_image-300x300.png",
-        "subs": 26058,
+        "subs": 26372,
         "paid": null,
         "prime": null,
         "gifted": 24001,
@@ -115,7 +115,7 @@
         "slug": "stableronaldo",
         "url": "https://twitchtracker.com/stableronaldo/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/020d2ed3-c2f2-4d33-805f-92cf966a9c43-profile_image-300x300.png",
-        "subs": 22094,
+        "subs": 22095,
         "paid": 7147,
         "prime": 5255,
         "gifted": 3059,
@@ -160,7 +160,7 @@
         "slug": "zarbex",
         "url": "https://twitchtracker.com/zarbex/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/436a50ca-f8e9-4cc0-aae8-def977448ac7-profile_image-300x300.png",
-        "subs": 19754,
+        "subs": 19800,
         "paid": null,
         "prime": null,
         "gifted": 4829,
@@ -235,7 +235,7 @@
         "slug": "aypierre",
         "url": "https://twitchtracker.com/aypierre/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/172c9db1-12c0-4f13-9778-6dd3fe6bfbf4-profile_image-300x300.png",
-        "subs": 17704,
+        "subs": 17784,
         "paid": 17151,
         "prime": 560,
         "gifted": 15680,
@@ -265,7 +265,7 @@
         "slug": "sleduck",
         "url": "https://twitchtracker.com/sleduck/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4002d188-b966-446a-bd74-3573f6ac4a7f-profile_image-300x300.png",
-        "subs": 17125,
+        "subs": 17184,
         "paid": null,
         "prime": null,
         "gifted": 16112,
@@ -470,7 +470,22 @@
       },
       {
         "rank": 32,
-        "diff": -9,
+        "diff": 44,
+        "name": "VIPEROUS",
+        "slug": "viperous",
+        "url": "https://twitchtracker.com/viperous/subscribers",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ccfd19f-cbf6-4d3d-b27d-14021a8b2650-profile_image-300x300.png",
+        "subs": 13414,
+        "paid": null,
+        "prime": null,
+        "gifted": 13093,
+        "t1": null,
+        "t2": 13,
+        "t3": 44
+      },
+      {
+        "rank": 33,
+        "diff": -10,
         "name": "ANGRYGINGE13",
         "slug": "angryginge13",
         "url": "https://twitchtracker.com/angryginge13/subscribers",
@@ -484,8 +499,8 @@
         "t3": 8
       },
       {
-        "rank": 33,
-        "diff": 8,
+        "rank": 34,
+        "diff": 7,
         "name": "ILLOJUAN",
         "slug": "illojuan",
         "url": "https://twitchtracker.com/illojuan/subscribers",
@@ -499,8 +514,8 @@
         "t3": 5
       },
       {
-        "rank": 34,
-        "diff": 22,
+        "rank": 35,
+        "diff": 21,
         "name": "WENDOLYNORTIZZ",
         "slug": "wendolynortizz",
         "url": "https://twitchtracker.com/wendolynortizz/subscribers",
@@ -514,8 +529,8 @@
         "t3": 3
       },
       {
-        "rank": 35,
-        "diff": 42,
+        "rank": 36,
+        "diff": 41,
         "name": "GRONKH",
         "slug": "gronkh",
         "url": "https://twitchtracker.com/gronkh/subscribers",
@@ -529,8 +544,8 @@
         "t3": 19
       },
       {
-        "rank": 36,
-        "diff": -22,
+        "rank": 37,
+        "diff": -23,
         "name": "CDAWG",
         "slug": "cdawg",
         "url": "https://twitchtracker.com/cdawg/subscribers",
@@ -544,8 +559,8 @@
         "t3": 8
       },
       {
-        "rank": 37,
-        "diff": 29,
+        "rank": 38,
+        "diff": 28,
         "name": "IRONMOUSE",
         "slug": "ironmouse",
         "url": "https://twitchtracker.com/ironmouse/subscribers",
@@ -557,21 +572,6 @@
         "t1": 6786,
         "t2": 50,
         "t3": 55
-      },
-      {
-        "rank": 38,
-        "diff": 38,
-        "name": "VIPEROUS",
-        "slug": "viperous",
-        "url": "https://twitchtracker.com/viperous/subscribers",
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ccfd19f-cbf6-4d3d-b27d-14021a8b2650-profile_image-300x300.png",
-        "subs": 12248,
-        "paid": null,
-        "prime": null,
-        "gifted": 11932,
-        "t1": null,
-        "t2": 13,
-        "t3": 44
       },
       {
         "rank": 39,
@@ -620,7 +620,22 @@
       },
       {
         "rank": 42,
-        "diff": 18,
+        "diff": -3,
+        "name": "ITRYAIK",
+        "slug": "itryaik",
+        "url": "https://twitchtracker.com/itryaik/subscribers",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7afa3473-d5aa-43f6-bfa3-49b1b81bd9a3-profile_image-300x300.png",
+        "subs": 10934,
+        "paid": null,
+        "prime": null,
+        "gifted": 10633,
+        "t1": null,
+        "t2": 6,
+        "t3": 12
+      },
+      {
+        "rank": 43,
+        "diff": 17,
         "name": "ZERATOR",
         "slug": "zerator",
         "url": "https://twitchtracker.com/zerator/subscribers",
@@ -632,21 +647,6 @@
         "t1": 5592,
         "t2": 39,
         "t3": 17
-      },
-      {
-        "rank": 43,
-        "diff": -4,
-        "name": "ITRYAIK",
-        "slug": "itryaik",
-        "url": "https://twitchtracker.com/itryaik/subscribers",
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7afa3473-d5aa-43f6-bfa3-49b1b81bd9a3-profile_image-300x300.png",
-        "subs": 10601,
-        "paid": null,
-        "prime": null,
-        "gifted": 10296,
-        "t1": null,
-        "t2": 6,
-        "t3": 12
       },
       {
         "rank": 44,
@@ -760,7 +760,7 @@
         "slug": "agent00",
         "url": "https://twitchtracker.com/agent00/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a83b628d80bcbe4f-profile_image-300x300.png",
-        "subs": 9961,
+        "subs": 10003,
         "paid": null,
         "prime": null,
         "gifted": 3423,
@@ -940,10 +940,10 @@
         "slug": "activee",
         "url": "https://twitchtracker.com/activee/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bc76ade-0099-4e08-ab9c-511f3223fca0-profile_image-300x300.png",
-        "subs": 8730,
+        "subs": 8811,
         "paid": null,
         "prime": null,
-        "gifted": 8490,
+        "gifted": 8575,
         "t1": null,
         "t2": 10,
         "t3": 9
@@ -1048,7 +1048,7 @@
         "subs": 8125,
         "paid": null,
         "prime": null,
-        "gifted": 7813,
+        "gifted": 7757,
         "t1": null,
         "t2": 6,
         "t3": 11
@@ -1085,22 +1085,7 @@
       },
       {
         "rank": 73,
-        "diff": 999,
-        "name": "STREAMDATABASE",
-        "slug": "streamdatabase",
-        "url": "https://twitchtracker.com/streamdatabase/subscribers",
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6289b83b-75bb-4343-bce9-6dbaad1de8d3-profile_image-300x300.png",
-        "subs": 7972,
-        "paid": null,
-        "prime": null,
-        "gifted": 5687,
-        "t1": null,
-        "t2": 0,
-        "t3": 4
-      },
-      {
-        "rank": 74,
-        "diff": 18,
+        "diff": 19,
         "name": "SUPERTF",
         "slug": "supertf",
         "url": "https://twitchtracker.com/supertf/subscribers",
@@ -1114,8 +1099,8 @@
         "t3": 6
       },
       {
-        "rank": 75,
-        "diff": -20,
+        "rank": 74,
+        "diff": -19,
         "name": "PENTA",
         "slug": "penta",
         "url": "https://twitchtracker.com/penta/subscribers",
@@ -1129,8 +1114,8 @@
         "t3": 3
       },
       {
-        "rank": 76,
-        "diff": 6,
+        "rank": 75,
+        "diff": 7,
         "name": "PAYMONEYWUBBY",
         "slug": "paymoneywubby",
         "url": "https://twitchtracker.com/paymoneywubby/subscribers",
@@ -1144,8 +1129,8 @@
         "t3": 15
       },
       {
-        "rank": 77,
-        "diff": 17,
+        "rank": 76,
+        "diff": 18,
         "name": "RAY",
         "slug": "ray",
         "url": "https://twitchtracker.com/ray/subscribers",
@@ -1159,7 +1144,7 @@
         "t3": 40
       },
       {
-        "rank": 78,
+        "rank": 77,
         "diff": 999,
         "name": "LUDWIG",
         "slug": "ludwig",
@@ -1174,8 +1159,8 @@
         "t3": 5
       },
       {
-        "rank": 79,
-        "diff": -17,
+        "rank": 78,
+        "diff": -16,
         "name": "DANGERLYOHA",
         "slug": "dangerlyoha",
         "url": "https://twitchtracker.com/dangerlyoha/subscribers",
@@ -1189,23 +1174,8 @@
         "t3": 14
       },
       {
-        "rank": 80,
-        "diff": 999,
-        "name": "HANGTIME",
-        "slug": "hangtime",
-        "url": "https://twitchtracker.com/hangtime/subscribers",
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/96a38b60-b3ce-4a25-8884-5e4d0cd74fe8-profile_image-300x300.jpeg",
-        "subs": 7595,
-        "paid": null,
-        "prime": null,
-        "gifted": 7162,
-        "t1": null,
-        "t2": 12,
-        "t3": 21
-      },
-      {
-        "rank": 81,
-        "diff": -14,
+        "rank": 79,
+        "diff": -12,
         "name": "BOBBYRAYGRAY",
         "slug": "bobbyraygray",
         "url": "https://twitchtracker.com/bobbyraygray/subscribers",
@@ -1219,8 +1189,8 @@
         "t3": 7
       },
       {
-        "rank": 82,
-        "diff": -2,
+        "rank": 80,
+        "diff": 0,
         "name": "SHOTZ",
         "slug": "shotz",
         "url": "https://twitchtracker.com/shotz/subscribers",
@@ -1234,7 +1204,7 @@
         "t3": 29
       },
       {
-        "rank": 83,
+        "rank": 81,
         "diff": 999,
         "name": "TRYMACS",
         "slug": "trymacs",
@@ -1249,13 +1219,13 @@
         "t3": 1
       },
       {
-        "rank": 84,
-        "diff": -34,
+        "rank": 82,
+        "diff": -32,
         "name": "GAULES",
         "slug": "gaules",
         "url": "https://twitchtracker.com/gaules/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea0fe422-84bd-4aee-9d10-fd4b0b3a7054-profile_image-300x300.png",
-        "subs": 7187,
+        "subs": 7199,
         "paid": 5101,
         "prime": 2086,
         "gifted": 125,
@@ -1264,8 +1234,8 @@
         "t3": 5
       },
       {
-        "rank": 85,
-        "diff": -6,
+        "rank": 83,
+        "diff": -4,
         "name": "MURDERCRUMPET",
         "slug": "murdercrumpet",
         "url": "https://twitchtracker.com/murdercrumpet/subscribers",
@@ -1279,8 +1249,23 @@
         "t3": 30
       },
       {
-        "rank": 86,
-        "diff": -22,
+        "rank": 84,
+        "diff": 999,
+        "name": "HANGTIME",
+        "slug": "hangtime",
+        "url": "https://twitchtracker.com/hangtime/subscribers",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/96a38b60-b3ce-4a25-8884-5e4d0cd74fe8-profile_image-300x300.jpeg",
+        "subs": 7092,
+        "paid": null,
+        "prime": null,
+        "gifted": 6664,
+        "t1": null,
+        "t2": 12,
+        "t3": 16
+      },
+      {
+        "rank": 85,
+        "diff": -21,
         "name": "PAPAPLATTE",
         "slug": "papaplatte",
         "url": "https://twitchtracker.com/papaplatte/subscribers",
@@ -1294,23 +1279,8 @@
         "t3": 7
       },
       {
-        "rank": 87,
-        "diff": -40,
-        "name": "SREME",
-        "slug": "sreme",
-        "url": "https://twitchtracker.com/sreme/subscribers",
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/92b23f7d-feef-4c93-8974-6d5e12a396b5-profile_image-300x300.png",
-        "subs": 6931,
-        "paid": null,
-        "prime": null,
-        "gifted": 6587,
-        "t1": null,
-        "t2": 9,
-        "t3": 62
-      },
-      {
-        "rank": 88,
-        "diff": 98,
+        "rank": 86,
+        "diff": 999,
         "name": "DEAR_HELLGIRL",
         "slug": "dear_hellgirl",
         "url": "https://twitchtracker.com/dear_hellgirl/subscribers",
@@ -1324,8 +1294,8 @@
         "t3": 54
       },
       {
-        "rank": 89,
-        "diff": -49,
+        "rank": 87,
+        "diff": -47,
         "name": "HCJUSTIN",
         "slug": "hcjustin",
         "url": "https://twitchtracker.com/hcjustin/subscribers",
@@ -1339,8 +1309,23 @@
         "t3": 41
       },
       {
-        "rank": 90,
-        "diff": 13,
+        "rank": 88,
+        "diff": 999,
+        "name": "STREAMDATABASE",
+        "slug": "streamdatabase",
+        "url": "https://twitchtracker.com/streamdatabase/subscribers",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6289b83b-75bb-4343-bce9-6dbaad1de8d3-profile_image-300x300.png",
+        "subs": 6745,
+        "paid": null,
+        "prime": null,
+        "gifted": 4650,
+        "t1": null,
+        "t2": 0,
+        "t3": 4
+      },
+      {
+        "rank": 89,
+        "diff": 14,
         "name": "YURNBOI",
         "slug": "yurnboi",
         "url": "https://twitchtracker.com/yurnboi/subscribers",
@@ -1354,13 +1339,28 @@
         "t3": 0
       },
       {
+        "rank": 90,
+        "diff": -43,
+        "name": "SREME",
+        "slug": "sreme",
+        "url": "https://twitchtracker.com/sreme/subscribers",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/92b23f7d-feef-4c93-8974-6d5e12a396b5-profile_image-300x300.png",
+        "subs": 6723,
+        "paid": null,
+        "prime": null,
+        "gifted": 6382,
+        "t1": null,
+        "t2": 9,
+        "t3": 61
+      },
+      {
         "rank": 91,
         "diff": 999,
         "name": "ROB2628",
         "slug": "rob2628",
         "url": "https://twitchtracker.com/rob2628/subscribers",
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5f96899-40fe-4ec1-b566-e7cefea872c1-profile_image-300x300.png",
-        "subs": 6610,
+        "subs": 6673,
         "paid": null,
         "prime": null,
         "gifted": 2284,
@@ -1511,14 +1511,15 @@
         "name": "KAICENAT",
         "slug": "kaicenat",
         "url": "https://twitchtracker.com/kaicenat/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf6a04cf-3f44-4986-8eed-5c36bfad542b-profile_image-300x300.png",
         "subs": 1112947,
         "paid": null,
         "prime": 21606,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "September 2025"
       },
       {
         "rank": 2,
@@ -1526,14 +1527,15 @@
         "name": "EVELONE2004",
         "slug": "evelone2004",
         "url": "https://twitchtracker.com/evelone2004/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4af340ba-8d13-44e8-9e72-14c4c86d1f20-profile_image-300x300.png",
         "subs": 459924,
         "paid": null,
         "prime": 300,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2024"
       },
       {
         "rank": 3,
@@ -1541,14 +1543,15 @@
         "name": "VEDAL987",
         "slug": "vedal987",
         "url": "https://twitchtracker.com/vedal987/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "subs": 343215,
         "paid": null,
         "prime": 6375,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2026"
       },
       {
         "rank": 4,
@@ -1556,14 +1559,15 @@
         "name": "JASONTHEWEEN",
         "slug": "jasontheween",
         "url": "https://twitchtracker.com/jasontheween/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a04be2b0-9cc1-403c-a4b0-47b32d1fe640-profile_image-300x300.png",
         "subs": 327278,
         "paid": null,
         "prime": 18163,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 5,
@@ -1571,14 +1575,15 @@
         "name": "IRONMOUSE",
         "slug": "ironmouse",
         "url": "https://twitchtracker.com/ironmouse/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2aca19b-b318-4398-99a5-fb6a597536fd-profile_image-300x300.png",
         "subs": 326252,
         "paid": null,
         "prime": 12319,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2024"
       },
       {
         "rank": 6,
@@ -1586,14 +1591,15 @@
         "name": "LUDWIG",
         "slug": "ludwig",
         "url": "https://twitchtracker.com/ludwig/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bde8aaf5-35d4-4503-9797-842401da900f-profile_image-300x300.png",
         "subs": 283066,
         "paid": null,
         "prime": 7715,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2021"
       },
       {
         "rank": 7,
@@ -1601,14 +1607,15 @@
         "name": "NINJA",
         "slug": "ninja",
         "url": "https://twitchtracker.com/ninja/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/90d40495-f467-4911-9035-72d8d10a49c5-profile_image-300x300.png",
         "subs": 269154,
         "paid": null,
         "prime": 179,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2018"
       },
       {
         "rank": 8,
@@ -1616,14 +1623,15 @@
         "name": "JYNXZI",
         "slug": "jynxzi",
         "url": "https://twitchtracker.com/jynxzi/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/645d98a0-a2eb-48a3-b687-cfbc55243e4a-profile_image-300x300.png",
         "subs": 179543,
         "paid": null,
         "prime": 85346,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2024"
       },
       {
         "rank": 9,
@@ -1631,14 +1639,15 @@
         "name": "IBAI",
         "slug": "ibai",
         "url": "https://twitchtracker.com/ibai/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/574228be-01ef-4eab-bc0e-a4f6b68bedba-profile_image-300x300.png",
         "subs": 164107,
         "paid": null,
         "prime": 4066,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "July 2025"
       },
       {
         "rank": 10,
@@ -1646,14 +1655,15 @@
         "name": "CASIMITO",
         "slug": "casimito",
         "url": "https://twitchtracker.com/casimito/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/32805a78-d927-48bd-8089-bf5efed53ea4-profile_image-300x300.png",
         "subs": 159487,
         "paid": null,
         "prime": 1030,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2022"
       },
       {
         "rank": 11,
@@ -1661,14 +1671,15 @@
         "name": "PESTILY",
         "slug": "pestily",
         "url": "https://twitchtracker.com/pestily/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d33e15c-f918-468f-9a29-f56399786532-profile_image-300x300.png",
         "subs": 141395,
         "paid": null,
         "prime": 3884,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2025"
       },
       {
         "rank": 12,
@@ -1676,14 +1687,15 @@
         "name": "ADAPT",
         "slug": "adapt",
         "url": "https://twitchtracker.com/adapt/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3799fbb2-e701-4ae9-9a48-48214d31579b-profile_image-300x300.png",
         "subs": 140108,
         "paid": null,
         "prime": 9724,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 13,
@@ -1691,14 +1703,15 @@
         "name": "CRITICALROLE",
         "slug": "criticalrole",
         "url": "https://twitchtracker.com/criticalrole/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/df48eb67-0777-4f87-827b-1bef5f201cb9-profile_image-300x300.png",
         "subs": 139559,
         "paid": null,
         "prime": 2502,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2021"
       },
       {
         "rank": 14,
@@ -1706,14 +1719,15 @@
         "name": "STABLERONALDO",
         "slug": "stableronaldo",
         "url": "https://twitchtracker.com/stableronaldo/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/020d2ed3-c2f2-4d33-805f-92cf966a9c43-profile_image-300x300.png",
         "subs": 134423,
         "paid": null,
-        "prime": 22094,
+        "prime": 22095,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 15,
@@ -1721,14 +1735,15 @@
         "name": "SHLOROX",
         "slug": "shlorox",
         "url": "https://twitchtracker.com/shlorox/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/shlorox-profile_image-4be72b9009ae00a8-300x300.png",
         "subs": 126267,
         "paid": null,
         "prime": 5460,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2026"
       },
       {
         "rank": 16,
@@ -1736,14 +1751,15 @@
         "name": "RANBOOLIVE",
         "slug": "ranboolive",
         "url": "https://twitchtracker.com/ranboolive/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f067a235-27d9-415d-b25f-15387d7c972e-profile_image-300x300.png",
         "subs": 116870,
         "paid": null,
         "prime": 1064,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "August 2021"
       },
       {
         "rank": 17,
@@ -1751,14 +1767,15 @@
         "name": "LVNDMARK",
         "slug": "lvndmark",
         "url": "https://twitchtracker.com/lvndmark/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8dcaf96d-68ee-4fc6-bfdc-fdfc564e134a-profile_image-300x300.png",
         "subs": 115384,
         "paid": null,
         "prime": 3549,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2025"
       },
       {
         "rank": 18,
@@ -1766,14 +1783,15 @@
         "name": "LACY",
         "slug": "lacy",
         "url": "https://twitchtracker.com/lacy/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/48487d3b-e713-4a49-ad35-dec6ab7d690e-profile_image-300x300.png",
         "subs": 110060,
         "paid": null,
         "prime": 8179,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 19,
@@ -1781,14 +1799,15 @@
         "name": "YOURRAGEGAMING",
         "slug": "yourragegaming",
         "url": "https://twitchtracker.com/yourragegaming/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/70c63d12-ecae-485c-9bca-3d3f3ad5782a-profile_image-300x300.png",
         "subs": 104281,
         "paid": null,
         "prime": 16228,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 21,
@@ -1796,14 +1815,15 @@
         "name": "SILKY",
         "slug": "silky",
         "url": "https://twitchtracker.com/silky/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ac703ee-57aa-4e68-86df-838d52a5193f-profile_image-300x300.png",
         "subs": 103225,
         "paid": null,
         "prime": 3346,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 22,
@@ -1811,14 +1831,15 @@
         "name": "KAYSAN",
         "slug": "kaysan",
         "url": "https://twitchtracker.com/kaysan/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf087b55-92e4-4a8c-a722-ed0e66e6bf9d-profile_image-300x300.png",
         "subs": 103109,
         "paid": null,
-        "prime": 1372,
+        "prime": 1374,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 23,
@@ -1826,14 +1847,15 @@
         "name": "GAULES",
         "slug": "gaules",
         "url": "https://twitchtracker.com/gaules/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea0fe422-84bd-4aee-9d10-fd4b0b3a7054-profile_image-300x300.png",
         "subs": 102857,
         "paid": null,
-        "prime": 7187,
+        "prime": 7199,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "June 2022"
       },
       {
         "rank": 24,
@@ -1841,14 +1863,15 @@
         "name": "XQC",
         "slug": "xqc",
         "url": "https://twitchtracker.com/xqc/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-300x300.jpeg",
         "subs": 102288,
         "paid": null,
         "prime": 21075,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "May 2022"
       },
       {
         "rank": 25,
@@ -1856,14 +1879,15 @@
         "name": "SHROUD",
         "slug": "shroud",
         "url": "https://twitchtracker.com/shroud/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c754eebf-745b-4e0a-814a-10bcaecaabbc-profile_image-300x300.png",
         "subs": 101588,
         "paid": null,
         "prime": 1162,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "March 2019"
       },
       {
         "rank": 26,
@@ -1871,14 +1895,15 @@
         "name": "SUMMIT1G",
         "slug": "summit1g",
         "url": "https://twitchtracker.com/summit1g/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/99aa4739-21d6-40af-86ae-4b4d3457fce4-profile_image-300x300.png",
         "subs": 94941,
         "paid": null,
         "prime": 15658,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "May 2020"
       },
       {
         "rank": 27,
@@ -1886,14 +1911,15 @@
         "name": "CASEOH_",
         "slug": "caseoh_",
         "url": "https://twitchtracker.com/caseoh_/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef28ba12-c8ed-46d4-838b-a4c95ef5b469-profile_image-300x300.png",
         "subs": 89238,
         "paid": null,
         "prime": 66226,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2025"
       },
       {
         "rank": 28,
@@ -1901,14 +1927,15 @@
         "name": "THEGREFG",
         "slug": "thegrefg",
         "url": "https://twitchtracker.com/thegrefg/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc9e7c87-c85a-45a6-9e45-0eb1e87eb47a-profile_image-300x300.png",
         "subs": 88585,
         "paid": null,
         "prime": 816,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2022"
       },
       {
         "rank": 29,
@@ -1916,14 +1943,15 @@
         "name": "ELIASN97",
         "slug": "eliasn97",
         "url": "https://twitchtracker.com/eliasn97/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fb94c7a-b4c0-4ed1-9782-b630a59915d5-profile_image-300x300.png",
         "subs": 85475,
         "paid": null,
         "prime": 28270,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "September 2023"
       },
       {
         "rank": 30,
@@ -1931,14 +1959,15 @@
         "name": "HASANABI",
         "slug": "hasanabi",
         "url": "https://twitchtracker.com/hasanabi/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0347a9aa-e396-49a5-b0f1-31261704bab8-profile_image-300x300.jpeg",
         "subs": 85125,
         "paid": null,
         "prime": 37646,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2024"
       },
       {
         "rank": 31,
@@ -1946,14 +1975,15 @@
         "name": "PLAQUEBOYMAX",
         "slug": "plaqueboymax",
         "url": "https://twitchtracker.com/plaqueboymax/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/940e00d5-45f8-436b-a250-e30d3280d2db-profile_image-300x300.png",
         "subs": 81115,
         "paid": null,
         "prime": 9488,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "September 2024"
       },
       {
         "rank": 32,
@@ -1961,14 +1991,15 @@
         "name": "PIRATESOFTWARE",
         "slug": "piratesoftware",
         "url": "https://twitchtracker.com/piratesoftware/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a1edcb1-7d62-48ab-b071-1ef64ab0f629-profile_image-300x300.png",
         "subs": 80861,
         "paid": null,
         "prime": 5404,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2024"
       },
       {
         "rank": 33,
@@ -1976,14 +2007,15 @@
         "name": "NICKMERCS",
         "slug": "nickmercs",
         "url": "https://twitchtracker.com/nickmercs/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b04e20be-6c0b-4379-b163-7f9a928e03f0-profile_image-300x300.png",
         "subs": 80402,
         "paid": null,
         "prime": 10034,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2021"
       },
       {
         "rank": 34,
@@ -1991,14 +2023,15 @@
         "name": "KKATAMINA",
         "slug": "kkatamina",
         "url": "https://twitchtracker.com/kkatamina/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6012e459-9e99-4ed3-821c-f6312292aa7e-profile_image-300x300.png",
         "subs": 73623,
         "paid": null,
         "prime": 622,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2021"
       },
       {
         "rank": 35,
@@ -2006,14 +2039,15 @@
         "name": "POINTCROW",
         "slug": "pointcrow",
         "url": "https://twitchtracker.com/pointcrow/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d228d58-5ff6-4594-950c-945bad7352ca-profile_image-300x300.png",
         "subs": 72533,
         "paid": null,
         "prime": 1695,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "May 2022"
       },
       {
         "rank": 36,
@@ -2021,14 +2055,15 @@
         "name": "FEXTRALIFE",
         "slug": "fextralife",
         "url": "https://twitchtracker.com/fextralife/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a28b0d37-81d0-415a-8ed8-1a1f998ea26d-profile_image-300x300.png",
         "subs": 72090,
         "paid": null,
         "prime": 1,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "July 2023"
       },
       {
         "rank": 37,
@@ -2036,14 +2071,15 @@
         "name": "ADINROSS",
         "slug": "adinross",
         "url": "https://twitchtracker.com/adinross/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/10c197cb-295f-4d40-8a6c-26a0a5da22ee-profile_image-300x300.png",
         "subs": 71318,
         "paid": null,
         "prime": null,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "September 2021"
       },
       {
         "rank": 38,
@@ -2051,14 +2087,15 @@
         "name": "ZIZARAN",
         "slug": "zizaran",
         "url": "https://twitchtracker.com/zizaran/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/zizaran-profile_image-d534b9791c469a48-300x300.png",
         "subs": 71258,
         "paid": null,
         "prime": 3994,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2025"
       },
       {
         "rank": 39,
@@ -2066,14 +2103,15 @@
         "name": "ZEUDIDIPALMA01",
         "slug": "zeudidipalma01",
         "url": "https://twitchtracker.com/zeudidipalma01/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/349558f2-fb92-4b14-9275-a04916ed285c-profile_image-300x300.png",
         "subs": 71212,
         "paid": null,
         "prime": 19692,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "March 2026"
       },
       {
         "rank": 40,
@@ -2081,14 +2119,15 @@
         "name": "DDG",
         "slug": "ddg",
         "url": "https://twitchtracker.com/ddg/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01d55c0b-9cfc-4a3d-a622-1bc2b3300f5e-profile_image-300x300.png",
         "subs": 70898,
         "paid": null,
         "prime": 6535,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2025"
       },
       {
         "rank": 41,
@@ -2096,14 +2135,15 @@
         "name": "TUMBLURR",
         "slug": "tumblurr",
         "url": "https://twitchtracker.com/tumblurr/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/76689ba7-8a3a-4369-bb9b-6ec7c54e4648-profile_image-300x300.png",
         "subs": 70656,
         "paid": null,
         "prime": 31412,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2024"
       },
       {
         "rank": 42,
@@ -2111,14 +2151,15 @@
         "name": "ANOMALY",
         "slug": "anomaly",
         "url": "https://twitchtracker.com/anomaly/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-300x300.png",
         "subs": 70420,
         "paid": null,
         "prime": 767,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "May 2020"
       },
       {
         "rank": 43,
@@ -2126,14 +2167,15 @@
         "name": "TRYMACS",
         "slug": "trymacs",
         "url": "https://twitchtracker.com/trymacs/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/22a56845-20d0-4e14-932e-0ec099b088eb-profile_image-300x300.png",
         "subs": 70196,
         "paid": null,
         "prime": 7208,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2021"
       },
       {
         "rank": 44,
@@ -2141,14 +2183,15 @@
         "name": "TFUE",
         "slug": "tfue",
         "url": "https://twitchtracker.com/tfue/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f65f290a-d37e-4c33-bc74-de6049eddf55-profile_image-300x300.png",
         "subs": 69586,
         "paid": null,
         "prime": 21,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2019"
       },
       {
         "rank": 45,
@@ -2156,14 +2199,15 @@
         "name": "月希",
         "slug": "tsukilin",
         "url": "https://twitchtracker.com/tsukilin/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/45086748-767b-4c84-90dd-400704d22d76-profile_image-300x300.png",
         "subs": 68906,
         "paid": null,
         "prime": 207,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "September 2023"
       },
       {
         "rank": 46,
@@ -2171,14 +2215,15 @@
         "name": "CHRISTINAANDAMBER",
         "slug": "christinaandamber",
         "url": "https://twitchtracker.com/christinaandamber/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dc3ff61-3ee2-408f-9071-0f849dff6f66-profile_image-300x300.png",
         "subs": 68718,
         "paid": null,
-        "prime": 26058,
+        "prime": 26372,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2025"
       },
       {
         "rank": 47,
@@ -2186,14 +2231,15 @@
         "name": "SHEEFGG",
         "slug": "sheefgg",
         "url": "https://twitchtracker.com/sheefgg/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2aead78a-797a-47a3-8cf2-2a86dc00ab19-profile_image-300x300.png",
         "subs": 67814,
         "paid": null,
         "prime": 4442,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2025"
       },
       {
         "rank": 48,
@@ -2201,14 +2247,15 @@
         "name": "DARIOMOCCIATWITCH",
         "slug": "dariomocciatwitch",
         "url": "https://twitchtracker.com/dariomocciatwitch/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73633088-8b11-4dad-b4ae-065f64f3a585-profile_image-300x300.png",
         "subs": 63016,
         "paid": null,
         "prime": 8003,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2023"
       },
       {
         "rank": 49,
@@ -2216,14 +2263,15 @@
         "name": "MONTANABLACK88",
         "slug": "montanablack88",
         "url": "https://twitchtracker.com/montanablack88/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f36c08a-6f7d-40f1-a9e8-12eee2ff0f93-profile_image-300x300.png",
         "subs": 62862,
         "paid": null,
         "prime": 4076,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2025"
       },
       {
         "rank": 50,
@@ -2231,14 +2279,15 @@
         "name": "QUIN69",
         "slug": "quin69",
         "url": "https://twitchtracker.com/quin69/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2f5addde-fd0d-4a10-82a9-ea91ebb17f8d-profile_image-300x300.png",
         "subs": 62040,
         "paid": null,
         "prime": 4144,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2025"
       },
       {
         "rank": 51,
@@ -2246,14 +2295,15 @@
         "name": "CAEDREL",
         "slug": "caedrel",
         "url": "https://twitchtracker.com/caedrel/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/483a37ac-58fd-4e2f-8dc3-2c68a0164112-profile_image-300x300.png",
         "subs": 60381,
         "paid": null,
         "prime": 10448,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2025"
       },
       {
         "rank": 52,
@@ -2261,14 +2311,15 @@
         "name": "IITZTIMMY",
         "slug": "iitztimmy",
         "url": "https://twitchtracker.com/iitztimmy/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/07580fe8-4509-4cbd-84b6-31732234e98c-profile_image-300x300.png",
         "subs": 59980,
         "paid": null,
         "prime": 937,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "May 2022"
       },
       {
         "rank": 53,
@@ -2276,14 +2327,15 @@
         "name": "JLTOMY",
         "slug": "jltomy",
         "url": "https://twitchtracker.com/jltomy/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2bc80a-e317-494a-a94d-7492889e4f66-profile_image-300x300.png",
         "subs": 59405,
         "paid": null,
         "prime": 14297,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2023"
       },
       {
         "rank": 54,
@@ -2291,14 +2343,15 @@
         "name": "AZTECROSS",
         "slug": "aztecross",
         "url": "https://twitchtracker.com/aztecross/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a3fe6fd-c398-48d6-9999-df2bff4b6a2a-profile_image-300x300.png",
         "subs": 58493,
         "paid": null,
         "prime": 8242,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "June 2024"
       },
       {
         "rank": 55,
@@ -2306,14 +2359,15 @@
         "name": "SHYLILY",
         "slug": "shylily",
         "url": "https://twitchtracker.com/shylily/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d536ae87-a9df-43ad-b513-8fed230612e6-profile_image-300x300.png",
         "subs": 58072,
         "paid": null,
         "prime": 2143,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "March 2022"
       },
       {
         "rank": 56,
@@ -2321,14 +2375,15 @@
         "name": "TRAINWRECKSTV",
         "slug": "trainwreckstv",
         "url": "https://twitchtracker.com/trainwreckstv/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f47965f-7961-4b64-ad6f-71808d7d7fe9-profile_image-300x300.png",
         "subs": 57551,
         "paid": null,
         "prime": 37,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2022"
       },
       {
         "rank": 57,
@@ -2336,14 +2391,15 @@
         "name": "ADMIRALBAHROO",
         "slug": "admiralbahroo",
         "url": "https://twitchtracker.com/admiralbahroo/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d57c5237-ca9d-432c-9560-d5e62b28ce80-profile_image-300x300.png",
         "subs": 57066,
         "paid": null,
         "prime": 3708,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "March 2022"
       },
       {
         "rank": 58,
@@ -2351,14 +2407,15 @@
         "name": "TIMTHETATMAN",
         "slug": "timthetatman",
         "url": "https://twitchtracker.com/timthetatman/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dcd89d5-6700-4b05-b9c9-c7dac61c32db-profile_image-300x300.png",
         "subs": 56915,
         "paid": null,
         "prime": 2794,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "March 2019"
       },
       {
         "rank": 59,
@@ -2366,14 +2423,15 @@
         "name": "RUBIUS",
         "slug": "rubius",
         "url": "https://twitchtracker.com/rubius/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2592e98-5ba6-4c9a-9d9e-cf036d6f64c2-profile_image-300x300.jpg",
         "subs": 56577,
         "paid": null,
         "prime": 13633,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "March 2022"
       },
       {
         "rank": 60,
@@ -2381,14 +2439,15 @@
         "name": "GLORIOUS_E",
         "slug": "glorious_e",
         "url": "https://twitchtracker.com/glorious_e/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4d79c6d-e57c-487d-912d-e13e85d1a7bf-profile_image-300x300.png",
         "subs": 56575,
         "paid": null,
-        "prime": 4778,
+        "prime": 4889,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2025"
       },
       {
         "rank": 61,
@@ -2396,14 +2455,15 @@
         "name": "PAYMONEYWUBBY",
         "slug": "paymoneywubby",
         "url": "https://twitchtracker.com/paymoneywubby/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6624a175-5e4c-4d12-aaeb-993810378640-profile_image-300x300.png",
         "subs": 56349,
         "paid": null,
         "prime": 7859,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "August 2023"
       },
       {
         "rank": 62,
@@ -2411,14 +2471,15 @@
         "name": "SONDERGAARDLOL",
         "slug": "sondergaardlol",
         "url": "https://twitchtracker.com/sondergaardlol/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4605c769-bc72-40e3-b890-22c6f1b22329-profile_image-300x300.png",
         "subs": 56181,
         "paid": null,
-        "prime": 2035,
+        "prime": 2042,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2025"
       },
       {
         "rank": 63,
@@ -2426,14 +2487,15 @@
         "name": "ZERATOR",
         "slug": "zerator",
         "url": "https://twitchtracker.com/zerator/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/599b546a-c27f-4684-93ff-5eeecd01fb2b-profile_image-300x300.png",
         "subs": 56118,
         "paid": null,
         "prime": 10925,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "June 2023"
       },
       {
         "rank": 64,
@@ -2441,14 +2503,15 @@
         "name": "THEREALKNOSSI",
         "slug": "therealknossi",
         "url": "https://twitchtracker.com/therealknossi/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/13bfaccd-9f13-46a6-b6c7-983903a4a34a-profile_image-300x300.png",
         "subs": 55842,
         "paid": null,
         "prime": 1188,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "August 2020"
       },
       {
         "rank": 65,
@@ -2456,14 +2519,15 @@
         "name": "MARLON",
         "slug": "marlon",
         "url": "https://twitchtracker.com/marlon/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f5f92d-c94b-41ba-80f2-480165a94605-profile_image-300x300.png",
         "subs": 55793,
         "paid": null,
         "prime": 5609,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2025"
       },
       {
         "rank": 66,
@@ -2471,14 +2535,15 @@
         "name": "GEEKANDSUNDRY",
         "slug": "geekandsundry",
         "url": "https://twitchtracker.com/geekandsundry/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geekandsundry-profile_image-8f736a31acffce15-300x300.png",
         "subs": 55349,
         "paid": null,
         "prime": null,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2018"
       },
       {
         "rank": 67,
@@ -2486,14 +2551,15 @@
         "name": "ELXOKAS",
         "slug": "elxokas",
         "url": "https://twitchtracker.com/elxokas/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/198c0fe9-cf41-4ef1-ad55-405c1e599f25-profile_image-300x300.png",
         "subs": 53543,
         "paid": null,
         "prime": 3768,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2022"
       },
       {
         "rank": 68,
@@ -2501,14 +2567,15 @@
         "name": "TUBBO",
         "slug": "tubbo",
         "url": "https://twitchtracker.com/tubbo/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/905af69a-4fd8-42c7-b842-bf4ee4d51b3b-profile_image-300x300.png",
         "subs": 53073,
         "paid": null,
         "prime": 1077,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2024"
       },
       {
         "rank": 69,
@@ -2516,14 +2583,15 @@
         "name": "SINTICA",
         "slug": "sintica",
         "url": "https://twitchtracker.com/sintica/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0d0dfb4-9b3e-4161-8a91-636d596f01cc-profile_image-300x300.png",
         "subs": 52992,
         "paid": null,
         "prime": 5575,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "September 2021"
       },
       {
         "rank": 70,
@@ -2531,14 +2599,15 @@
         "name": "OHNEPIXEL",
         "slug": "ohnepixel",
         "url": "https://twitchtracker.com/ohnepixel/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5742b015-e6ed-4f7c-a1dd-87cd88fe1eb9-profile_image-300x300.png",
         "subs": 52910,
         "paid": null,
         "prime": 11529,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "August 2023"
       },
       {
         "rank": 71,
@@ -2546,14 +2615,15 @@
         "name": "ELRAENN",
         "slug": "elraenn",
         "url": "https://twitchtracker.com/elraenn/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0294fec8-8572-4517-9b60-12e0705a8893-profile_image-300x300.png",
         "subs": 52277,
         "paid": null,
         "prime": 56,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2024"
       },
       {
         "rank": 72,
@@ -2561,14 +2631,15 @@
         "name": "MOONRYDE",
         "slug": "moonryde",
         "url": "https://twitchtracker.com/moonryde/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f48b21e-a9be-4881-930a-452a420b07e0-profile_image-300x300.png",
         "subs": 52072,
         "paid": null,
         "prime": 2647,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2024"
       },
       {
         "rank": 73,
@@ -2576,14 +2647,15 @@
         "name": "NADESHOT",
         "slug": "nadeshot",
         "url": "https://twitchtracker.com/nadeshot/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c37989a-6d02-4b6b-940d-0ecb94f3a0b1-profile_image-300x300.png",
         "subs": 51582,
         "paid": null,
         "prime": 3836,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2024"
       },
       {
         "rank": 74,
@@ -2591,14 +2663,15 @@
         "name": "AGENT00",
         "slug": "agent00",
         "url": "https://twitchtracker.com/agent00/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a83b628d80bcbe4f-profile_image-300x300.png",
         "subs": 51503,
         "paid": null,
-        "prime": 9961,
+        "prime": 10003,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2025"
       },
       {
         "rank": 75,
@@ -2606,14 +2679,15 @@
         "name": "GLADD",
         "slug": "gladd",
         "url": "https://twitchtracker.com/gladd/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b4dc7ba-03d3-44d7-ab09-8528f7c8fc3b-profile_image-300x300.png",
         "subs": 50959,
         "paid": null,
         "prime": 2497,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "July 2020"
       },
       {
         "rank": 76,
@@ -2621,14 +2695,15 @@
         "name": "AURONPLAY",
         "slug": "auronplay",
         "url": "https://twitchtracker.com/auronplay/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1ea7d5a-ab2c-4e91-bba5-3ce211adfc3b-profile_image-300x300.png",
         "subs": 50796,
         "paid": null,
         "prime": 6096,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "August 2022"
       },
       {
         "rank": 77,
@@ -2636,14 +2711,15 @@
         "name": "DRDISRESPECT",
         "slug": "drdisrespect",
         "url": "https://twitchtracker.com/drdisrespect/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/72a69c72-14b9-4be8-b8cb-802bc3e5f8ed-profile_image-300x300.png",
         "subs": 50333,
         "paid": null,
         "prime": null,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "March 2018"
       },
       {
         "rank": 78,
@@ -2651,14 +2727,15 @@
         "name": "BRATISHKINOFF",
         "slug": "bratishkinoff",
         "url": "https://twitchtracker.com/bratishkinoff/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd95ee8e-a97b-4eba-8cb3-8245b77a24bb-profile_image-300x300.png",
         "subs": 49146,
         "paid": null,
         "prime": 2855,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2024"
       },
       {
         "rank": 79,
@@ -2666,14 +2743,15 @@
         "name": "ASMONGOLD",
         "slug": "asmongold",
         "url": "https://twitchtracker.com/asmongold/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/asmongold-profile_image-f7ddcbd0332f5d28-300x300.png",
         "subs": 48786,
         "paid": null,
         "prime": 18,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2022"
       },
       {
         "rank": 80,
@@ -2681,14 +2759,15 @@
         "name": "PURPLEBIXI",
         "slug": "purplebixi",
         "url": "https://twitchtracker.com/purplebixi/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f70d050e-4cee-4e3e-85b7-5ce1996a2eb5-profile_image-300x300.png",
         "subs": 48514,
         "paid": null,
         "prime": 4,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "May 2023"
       },
       {
         "rank": 81,
@@ -2696,14 +2775,15 @@
         "name": "加藤純一うん〇ちゃん",
         "slug": "kato_junichi0817",
         "url": "https://twitchtracker.com/kato_junichi0817/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4977cfd-1962-41ec-9355-ab2611b97552-profile_image-300x300.png",
         "subs": 47830,
         "paid": null,
         "prime": 5782,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "November 2021"
       },
       {
         "rank": 82,
@@ -2711,14 +2791,15 @@
         "name": "PAPAPLATTE",
         "slug": "papaplatte",
         "url": "https://twitchtracker.com/papaplatte/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/04abc1b4-7bad-4b55-8da8-c0f1cf031bda-profile_image-300x300.png",
         "subs": 47525,
         "paid": null,
         "prime": 7047,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2024"
       },
       {
         "rank": 83,
@@ -2726,14 +2807,15 @@
         "name": "ILLOJUAN",
         "slug": "illojuan",
         "url": "https://twitchtracker.com/illojuan/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/593b5641-c626-4ba4-ba49-11cb33f6c3e8-profile_image-300x300.png",
         "subs": 47496,
         "paid": null,
         "prime": 12699,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2023"
       },
       {
         "rank": 84,
@@ -2741,14 +2823,15 @@
         "name": "JAHREIN",
         "slug": "jahrein",
         "url": "https://twitchtracker.com/jahrein/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a5da7b-5d96-4206-a3be-b3628c4d0f35-profile_image-300x300.png",
         "subs": 47031,
         "paid": null,
         "prime": 46,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2023"
       },
       {
         "rank": 85,
@@ -2756,14 +2839,15 @@
         "name": "GAMESDONEQUICK",
         "slug": "gamesdonequick",
         "url": "https://twitchtracker.com/gamesdonequick/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3fc1f16-0818-4121-8711-c31b9469bc21-profile_image-300x300.png",
         "subs": 46772,
         "paid": null,
         "prime": 251,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2019"
       },
       {
         "rank": 86,
@@ -2771,14 +2855,15 @@
         "name": "ANNY",
         "slug": "anny",
         "url": "https://twitchtracker.com/anny/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1a7937e-1188-44f4-9af2-75d4361c5987-profile_image-300x300.png",
         "subs": 45572,
         "paid": null,
         "prime": 90,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "July 2023"
       },
       {
         "rank": 87,
@@ -2786,14 +2871,15 @@
         "name": "CELLBIT",
         "slug": "cellbit",
         "url": "https://twitchtracker.com/cellbit/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0595cdd0-65a7-4fa3-996d-323cf3a54be1-profile_image-300x300.png",
         "subs": 45450,
         "paid": null,
         "prime": 17194,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "August 2022"
       },
       {
         "rank": 88,
@@ -2801,14 +2887,15 @@
         "name": "CASTRO_1021",
         "slug": "castro_1021",
         "url": "https://twitchtracker.com/castro_1021/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f89b1cc-4c97-4e2b-a6d8-b288f3963bc5-profile_image-300x300.png",
         "subs": 44977,
         "paid": null,
         "prime": 477,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "October 2021"
       },
       {
         "rank": 89,
@@ -2816,14 +2903,15 @@
         "name": "BRUCEDROPEMOFF",
         "slug": "brucedropemoff",
         "url": "https://twitchtracker.com/brucedropemoff/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/942bca8c-21f3-4e13-a4ef-148dca11ce7e-profile_image-300x300.png",
         "subs": 44808,
         "paid": null,
         "prime": 9030,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "August 2022"
       },
       {
         "rank": 90,
@@ -2831,14 +2919,15 @@
         "name": "ZACKRAWRR",
         "slug": "zackrawrr",
         "url": "https://twitchtracker.com/zackrawrr/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9ce83ba-c0bd-49cc-83bd-9d17647a211a-profile_image-300x300.png",
         "subs": 44217,
         "paid": null,
         "prime": 4744,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2025"
       },
       {
         "rank": 91,
@@ -2846,14 +2935,15 @@
         "name": "DUMBDOG",
         "slug": "dumbdog",
         "url": "https://twitchtracker.com/dumbdog/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f2102d6f-a4f2-47ce-8f40-2f1786dbcd83-profile_image-300x300.png",
         "subs": 44103,
         "paid": null,
         "prime": 1385,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2022"
       },
       {
         "rank": 92,
@@ -2861,14 +2951,15 @@
         "name": "PENTA",
         "slug": "penta",
         "url": "https://twitchtracker.com/penta/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a74b7da-4c2f-4a20-8a02-c7d77064c281-profile_image-300x300.png",
         "subs": 43331,
         "paid": null,
         "prime": 7881,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2022"
       },
       {
         "rank": 93,
@@ -2876,14 +2967,15 @@
         "name": "METASHI12",
         "slug": "metashi12",
         "url": "https://twitchtracker.com/metashi12/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3848892-7822-473b-b7a3-e7017290410c-profile_image-300x300.png",
         "subs": 42489,
         "paid": null,
         "prime": 6479,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2026"
       },
       {
         "rank": 94,
@@ -2891,14 +2983,15 @@
         "name": "JESSIROCKS",
         "slug": "jessirocks",
         "url": "https://twitchtracker.com/jessirocks/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/42835d64-8bfe-4a69-a8dc-c64034e1b26a-profile_image-300x300.png",
         "subs": 42452,
         "paid": null,
         "prime": 3069,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "June 2023"
       },
       {
         "rank": 95,
@@ -2906,14 +2999,15 @@
         "name": "TOMMYINNIT",
         "slug": "tommyinnit",
         "url": "https://twitchtracker.com/tommyinnit/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/48cb9093-a729-418e-ae3a-347c2b814ee6-profile_image-300x300.png",
         "subs": 42406,
         "paid": null,
         "prime": 9,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "February 2021"
       },
       {
         "rank": 96,
@@ -2921,14 +3015,15 @@
         "name": "WENDOLYNORTIZZ",
         "slug": "wendolynortizz",
         "url": "https://twitchtracker.com/wendolynortizz/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/be45309c-e89a-4374-b69f-6b4368eef40a-profile_image-300x300.png",
         "subs": 42281,
         "paid": null,
         "prime": 12653,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2025"
       },
       {
         "rank": 97,
@@ -2936,14 +3031,15 @@
         "name": "QUACKITY",
         "slug": "quackity",
         "url": "https://twitchtracker.com/quackity/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c2864d1-2739-4e10-ac60-7f74f30feef4-profile_image-300x300.png",
         "subs": 42252,
         "paid": null,
         "prime": 3997,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2021"
       },
       {
         "rank": 98,
@@ -2951,14 +3047,15 @@
         "name": "AMINEMATUE",
         "slug": "aminematue",
         "url": "https://twitchtracker.com/aminematue/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/13e55cbe-a1b0-4f4c-b69b-2748274b9e48-profile_image-300x300.png",
         "subs": 41607,
         "paid": null,
         "prime": 9018,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "December 2022"
       },
       {
         "rank": 99,
@@ -2966,14 +3063,15 @@
         "name": "PIETSMIET",
         "slug": "pietsmiet",
         "url": "https://twitchtracker.com/pietsmiet/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1518fb2-01a7-4414-b34d-e2842d20cbef-profile_image-300x300.png",
         "subs": 41127,
         "paid": null,
         "prime": 8189,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "January 2025"
       },
       {
         "rank": 100,
@@ -2981,14 +3079,15 @@
         "name": "REPULLZE",
         "slug": "repullze",
         "url": "https://twitchtracker.com/repullze/subscribers",
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf860551-6a89-4673-9be7-65a5ffd0ce01-profile_image-300x300.png",
         "subs": 41055,
         "paid": null,
         "prime": 5727,
         "gifted": null,
         "t1": null,
         "t2": null,
-        "t3": null
+        "t3": null,
+        "peak": "April 2021"
       }
     ]
   }
