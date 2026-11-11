@@ -30,13 +30,16 @@ jobs:
           python -m playwright install --with-deps chromium
  
       - name: Run scraper
+        id: scrape
+        continue-on-error: true
         run: python scraper/scrape.py
  
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/subscribers.json
+          git add data/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
