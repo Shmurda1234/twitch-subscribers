@@ -11,7 +11,7 @@ permissions:
  
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-latest is Ubuntu 26 now, which Playwright does not support yet
     timeout-minutes: 15
  
     steps:
