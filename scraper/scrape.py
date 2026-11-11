@@ -249,6 +249,13 @@ def scrape_one_page(page: Page, url: str, list_kind: str, page_num: int) -> list
         page.wait_for_selector("table#channels tbody tr", timeout=30_000)
     except Exception:
         print(f"[{list_kind}] page {page_num}: ! No #channels table found.", flush=True)
+        print(f"   [diag] page title: {page.title()!r} | url: {page.url}", flush=True)
+        try:
+            debug_html = OUTPUT_PATH.parent / "last-debug.html"
+            debug_html.write_text(page.content(), encoding="utf-8")
+            print(f"   [diag] saved page HTML to {debug_html}", flush=True)
+        except Exception as e:
+            print(f"   [diag] could not save HTML: {e}", flush=True)
         diagnose_table(page, list_kind, page_num)
         return []
  
